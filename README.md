@@ -1,4 +1,4 @@
-### README: Cookie Collecting Robot
+### Cookie Collecting Robot
 
 ---
 
